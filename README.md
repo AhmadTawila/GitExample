@@ -1,7 +1,6 @@
 
 Preface
 ========
-This app allows to use ```phpstorm://``` protocol to open a file in a [PhpStorm IDE](http://www.jetbrains.com/phpstorm/) the same way as it's done in [TextMate, (section 21.2)](http://manual.macromates.com/en/using_textmate_from_terminal.html).
 
 NOTE: Built-in ``idea://`` and ``phpstorm://`` protocols are supported in PhpStorm 8 EAP 138.190+
 according to this [comment](https://youtrack.jetbrains.com/oauth?state=%2Fissue%2FIDEA-65879#comment=27-736256).
